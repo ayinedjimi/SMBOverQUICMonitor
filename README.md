@@ -130,6 +130,10 @@ Format des entrées :
 ```
 
 
+# 🚀 Vérifier l'état du journal
+
+# 🚀 Activer si nécessaire
+
 ## Limitations techniques
 
 1. **Parsing des événements** : L'extraction XML des événements Windows est simplifiée. Pour un usage en production, utiliser un parser XML complet.
@@ -142,10 +146,6 @@ Format des entrées :
 
 5. **Données simulées** : Certaines informations (cipher suite, certificat) sont partiellement simulées dans cette version. L'intégration complète nécessiterait des API SMB internes non documentées.
 
-
-# 🚀 Vérifier l'état du journal
-
-# 🚀 Activer si nécessaire
 
 ## 🔧 Dépannage
 
@@ -212,6 +212,14 @@ Cet outil est distribué à des fins éducatives et de recherche. Toute utilisat
 **Développé avec expertise par Ayi NEDJIMI Consultants**
 *Solutions Windows avancées pour environnements professionnels*
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 ---
 
