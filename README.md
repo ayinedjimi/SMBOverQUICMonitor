@@ -114,6 +114,10 @@ L'interface affiche une ListView avec les colonnes suivantes :
    ```
 
 
+# 🚀 Vérifier l'état du journal
+
+# 🚀 Activer si nécessaire
+
 ## Fichiers de log
 
 Les logs sont créés automatiquement dans :
@@ -129,10 +133,6 @@ Format des entrées :
 2025-01-15 14:24:12 - Export réussi vers: C:\Reports\export.csv
 ```
 
-
-# 🚀 Vérifier l'état du journal
-
-# 🚀 Activer si nécessaire
 
 ## Limitations techniques
 
@@ -212,6 +212,14 @@ Cet outil est distribué à des fins éducatives et de recherche. Toute utilisat
 **Développé avec expertise par Ayi NEDJIMI Consultants**
 *Solutions Windows avancées pour environnements professionnels*
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
