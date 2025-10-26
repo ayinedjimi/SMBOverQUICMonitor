@@ -90,6 +90,10 @@ L'interface affiche une ListView avec les colonnes suivantes :
 | `[DURÉE LONGUE]` | La session dure plus d'1 heure | Vérifier l'utilisation normale |
 
 
+# 🚀 Vérifier l'état du journal
+
+# 🚀 Activer si nécessaire
+
 ## Environnement LAB-CONTROLLED
 
 **AVERTISSEMENT** : Cet outil est destiné **uniquement** à des fins de test, audit et apprentissage dans des environnements contrôlés (laboratoires, réseaux de développement).
@@ -113,10 +117,6 @@ L'interface affiche une ListView avec les colonnes suivantes :
    New-SmbServerCertificateMapping -Name "Test" -Thumbprint <thumbprint> -StoreName My
    ```
 
-
-# 🚀 Vérifier l'état du journal
-
-# 🚀 Activer si nécessaire
 
 ## Fichiers de log
 
@@ -212,6 +212,14 @@ Cet outil est distribué à des fins éducatives et de recherche. Toute utilisat
 **Développé avec expertise par Ayi NEDJIMI Consultants**
 *Solutions Windows avancées pour environnements professionnels*
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
