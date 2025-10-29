@@ -49,6 +49,10 @@ Le script compile avec les options suivantes :
 - Libs : `wevtapi.lib`, `crypt32.lib`, `ws2_32.lib`, `comctl32.lib`
 
 
+# 🚀 Vérifier l'état du journal
+
+# 🚀 Activer si nécessaire
+
 ## 🚀 Utilisation
 
 ### Lancement
@@ -89,10 +93,6 @@ L'interface affiche une ListView avec les colonnes suivantes :
 | `[CERT EXPIRÉ]` | Le certificat a dépassé sa date d'expiration | Renouveler le certificat |
 | `[DURÉE LONGUE]` | La session dure plus d'1 heure | Vérifier l'utilisation normale |
 
-
-# 🚀 Vérifier l'état du journal
-
-# 🚀 Activer si nécessaire
 
 ## Environnement LAB-CONTROLLED
 
@@ -212,6 +212,14 @@ Cet outil est distribué à des fins éducatives et de recherche. Toute utilisat
 **Développé avec expertise par Ayi NEDJIMI Consultants**
 *Solutions Windows avancées pour environnements professionnels*
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
